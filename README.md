@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 
-- 🔭 I’m currently working on [Personal Profile][(https://appapp-kbkccfslr8tknc4gt5nn8a.streamlit.app/)]
+- 🔭 I’m currently working on [Personal Profile](https://appapp-kbkccfslr8tknc4gt5nn8a.streamlit.app/)
 
-- 👨‍💻 All of my projects are available at [Kenneth Tebogo Khondowe][(https://github.com/KennethTebogo)]
+- 👨‍💻 All of my projects are available at [Kenneth Tebogo Khondowe](https://github.com/KennethTebogo)
 
-- 📝 I regularly write articles on [x][(https://x.com/EverythingOnX)]
+- 📝 I regularly write articles on [x](https://x.com/EverythingOnX)
 
 - 💬 Ask me about ** Java, Python, C, HTML, Vue, APIs, PHP, Strapi, WordPress, SEO **
 
