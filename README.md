@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [Personal Profile][(https://appapp-kbkccfslr8tknc4gt5nn8a.streamlit.app/)]
 
-- 👨‍💻 All of my projects are available at [Kenneth Tebogo Khondowe](https://github.com/KennethTebogo)
+- 👨‍💻 All of my projects are available at [Kenneth Tebogo Khondowe][(https://github.com/KennethTebogo)]
 
-- 📝 I regularly write articles on [x](https://www.x.com/in/everythingonx/)
+- 📝 I regularly write articles on [x][(https://x.com/EverythingOnX)]
 
 - 💬 Ask me about ** Java, Python, C, HTML, Vue, APIs, PHP, Strapi, WordPress, SEO **
 
