@@ -14,7 +14,7 @@
 
 - 💬 Ask me about ** Java, Python, C, HTML, Vue, APIs, PHP, Strapi, WordPress, SEO **
 
-- 📫 How to reach me **kennethtebogo17@gmail.com**
+- 📫 How to reach me [G-Mail](https://mail.google.com/mail/kennethtebogo17@gmail.com)
 
 
 <h3 align="left">Connect with me:</h3>
