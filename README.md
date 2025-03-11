@@ -12,9 +12,7 @@
 
 - 📝 I regularly write articles on [x](https://x.com/EverythingOnX)
 
-- 💬 Ask me about 
-
-**Java, Python, C, HTML, Vue, APIs, PHP, Strapi, WordPress, SEO**
+- 💬 Ask me about **Java, Python, C, HTML, Vue, APIs, PHP, Strapi, WordPress, SEO**
 
 
 - 📫 How to reach me [G-Mail](https://mail.google.com/mail/kennethtebogo17@gmail.com)
